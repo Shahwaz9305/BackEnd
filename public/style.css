@@ -1,0 +1,6 @@
+h1 {
+    background-color: blue;
+    color: white; /* Optional: To make the text more readable */
+    padding: 10px; /* Optional: Adds spacing around the text */
+    border-radius: 5px; /* Optional: Gives rounded corners */
+}
